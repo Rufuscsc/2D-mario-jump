@@ -18,12 +18,13 @@
   ## Key Features
   
   * Walking 
-  - press the arrow keys on your keyboard
+    - press the arrow keys on your keyboard
   * Jumping
-  - press spacebar
-  * Enemies- to escape enemies you will have to jump over them  
+    - press spacebar
+  * Enemies
+    - to escape enemies you will have to jump over them  
   * Coins
-   - Collect coins by running into it 
+    - Collect coins by running into it 
   * Levels
     - Maximum level is level 7
   
@@ -42,11 +43,4 @@
   Or
 
   Download Zip 
-  <img src="https://github.com/Rufuscsc/2D-mario-jump/blob/main/download.png" alt="image">
-
-  
-  ## Download
-  
-  You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
-  
-  
+  <img src="https://github.com/Rufuscsc/2D-mario-jump/blob/main/download.png" alt="image" width="400">
