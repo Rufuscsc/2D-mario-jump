@@ -39,8 +39,9 @@
   # Go into the repository
   $ cd 2d game
   ```
+ 
 
-  Or
-
-  Download Zip 
-  <img src="https://github.com/Rufuscsc/2D-mario-jump/blob/main/download.png" alt="image" width="400">
+  Download:
+  * To download you will have to press the Download zip shown down below in the picture
+  
+  <img src="https://github.com/Rufuscsc/2D-mario-jump/blob/main/download.png" alt="image" width="600">
